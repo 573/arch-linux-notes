@@ -34,4 +34,4 @@ Still it seems to be a supported card as https://www.nvidia.com/Download/driverR
 
 As the arch wiki tells me to install `nvidia` then I'll do.
 
-WIP
+(https://wiki.archlinux.org/title/bumblebee)
